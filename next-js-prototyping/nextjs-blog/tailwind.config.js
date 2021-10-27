@@ -4,4 +4,4 @@ module.exports = {
       './pages/**/*.js',
       './components/**/*.js'
     ]
-}
+  }
